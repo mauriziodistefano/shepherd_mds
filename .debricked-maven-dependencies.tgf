@@ -1,0 +1,142 @@
+312560500 owaspSecurityShepherd:owaspSecurityShepherd:war:3.1.0-SNAPSHOT
+864766419 com.onelogin:java-saml:jar:2.5.0:compile
+715602332 com.onelogin:java-saml-core:jar:2.5.0:compile
+173783788 org.slf4j:slf4j-api:jar:1.7.12:compile
+1835043230 joda-time:joda-time:jar:2.10.3:compile
+1709930189 org.apache.commons:commons-lang3:jar:3.4:compile
+1679160862 org.apache.santuario:xmlsec:jar:2.1.4:compile
+860798122 com.fasterxml.woodstox:woodstox-core:jar:5.0.3:compile
+1510731556 org.codehaus.woodstox:stax2-api:jar:3.1.4:compile
+1684580278 jakarta.xml.bind:jakarta.xml.bind-api:jar:2.3.2:compile
+797313059 jakarta.activation:jakarta.activation-api:jar:1.2.1:compile
+1768639125 org.glassfish.jaxb:jaxb-runtime:jar:2.3.2:compile
+1813838419 org.glassfish.jaxb:txw2:jar:2.3.2:compile
+1298707825 com.sun.istack:istack-commons-runtime:jar:3.0.8:compile
+1387293679 org.jvnet.staxex:stax-ex:jar:1.8.1:compile
+1639759054 com.sun.xml.fastinfoset:FastInfoset:jar:1.2.16:compile
+1794710728 de.mkammerer:argon2-jvm:jar:2.11:compile
+1647509467 de.mkammerer:argon2-jvm-nolibs:jar:2.11:compile
+856432481 net.java.dev.jna:jna:jar:5.8.0:runtime
+936546050 org.apache.logging.log4j:log4j-core:jar:2.18.0:compile
+368040556 org.apache.logging.log4j:log4j-api:jar:2.18.0:compile
+1616257837 org.json:json:jar:20220320:compile
+871554897 com.googlecode.json-simple:json-simple:jar:1.1.1:compile
+276561074 junit:junit:jar:4.10:compile
+2074896491 org.hamcrest:hamcrest-core:jar:1.1:compile
+716333944 commons-io:commons-io:jar:2.11.0:compile
+262093096 commons-codec:commons-codec:jar:1.15:compile
+1078905349 org.jsoup:jsoup:jar:1.15.2:compile
+1488526679 net.sf.jtidy:jtidy:jar:r938:compile
+1638472859 javax.mail:mail:jar:1.4.7:compile
+386478079 javax.activation:activation:jar:1.1:compile
+555864569 org.mongodb:mongo-java-driver:jar:3.12.11:compile
+836903727 javax:javaee-api:jar:8.0.1:provided
+403094604 com.sun.mail:javax.mail:jar:1.6.2:provided
+1177427556 javax.servlet:javax.servlet-api:jar:4.0.1:provided
+1773117761 jstl:jstl:jar:1.2:compile
+1240730624 mysql:mysql-connector-java:jar:5.1.24:compile
+1681730990 org.owasp.encoder:encoder:jar:1.2.3:compile
+1389810291 commons-logging:commons-logging:jar:1.2:compile
+1181205697 org.springframework:spring-web:jar:5.3.22:test
+798639105 org.springframework:spring-beans:jar:5.3.22:compile
+583490561 org.springframework:spring-test:jar:5.3.22:test
+1189496672 org.springframework:spring-core:jar:5.3.22:test
+1046467249 org.springframework:spring-jcl:jar:5.3.22:test
+1134043959 org.springframework:spring-mock:jar:2.0.8:test
+1529305105 com.github.fakemongo:fongo:jar:2.1.1:test
+789502290 org.mozilla:rhino:jar:1.7.7.1:test
+1862552664 com.vividsolutions:jts:jar:1.13:test
+1829194516 de.grundid.opendatalab:geojson-jackson:jar:1.2:test
+201421173 com.fasterxml.jackson.core:jackson-core:jar:2.2.2:test
+1436347886 com.fasterxml.jackson.core:jackson-databind:jar:2.2.2:test
+406265225 com.fasterxml.jackson.core:jackson-annotations:jar:2.2.2:test
+1329572464 org.springframework:spring-context:jar:5.3.22:compile
+1211297851 org.springframework:spring-aop:jar:5.3.22:compile
+2062780238 org.springframework:spring-expression:jar:5.3.22:compile
+1518868172 org.junit.jupiter:junit-jupiter-api:jar:5.8.2:test
+1750490055 org.opentest4j:opentest4j:jar:1.2.0:test
+934993374 org.junit.platform:junit-platform-commons:jar:1.8.2:test
+1360393616 org.apiguardian:apiguardian-api:jar:1.1.2:test
+1261545224 org.junit.jupiter:junit-jupiter-engine:jar:5.8.2:test
+300111306 org.junit.platform:junit-platform-engine:jar:1.8.2:test
+1893088773 org.hamcrest:hamcrest-junit:jar:2.0.0.0:test
+236055802 org.hamcrest:java-hamcrest:jar:2.0.0.0:test
+1214125015 org.mockito:mockito-core:jar:4.6.1:compile
+1134051859 net.bytebuddy:byte-buddy:jar:1.12.10:compile
+50297459 net.bytebuddy:byte-buddy-agent:jar:1.12.10:compile
+59257066 org.objenesis:objenesis:jar:3.2:runtime
+997219303 io.github.cdimascio:java-dotenv:jar:5.2.2:compile
+981012032 org.jetbrains.kotlin:kotlin-stdlib:jar:1.4.0:compile
+1135400862 org.jetbrains.kotlin:kotlin-stdlib-common:jar:1.4.0:compile
+31567969 org.jetbrains:annotations:jar:13.0:compile
+#
+864766419 715602332 compile
+864766419 173783788 compile
+864766419 1835043230 compile
+864766419 1709930189 compile
+860798122 1510731556 compile
+1679160862 860798122 compile
+1684580278 797313059 compile
+1679160862 1684580278 compile
+1768639125 1813838419 compile
+1768639125 1298707825 compile
+1768639125 1387293679 compile
+1768639125 1639759054 compile
+1679160862 1768639125 compile
+864766419 1679160862 compile
+312560500 864766419 compile
+1647509467 856432481 runtime
+1794710728 1647509467 compile
+312560500 1794710728 compile
+936546050 368040556 compile
+312560500 936546050 compile
+312560500 1616257837 compile
+276561074 2074896491 compile
+871554897 276561074 compile
+312560500 871554897 compile
+312560500 716333944 compile
+312560500 262093096 compile
+312560500 1078905349 compile
+312560500 1488526679 compile
+1638472859 386478079 compile
+312560500 1638472859 compile
+312560500 555864569 compile
+836903727 403094604 provided
+312560500 836903727 provided
+312560500 1177427556 provided
+312560500 1773117761 compile
+312560500 1240730624 compile
+312560500 1681730990 compile
+312560500 1389810291 compile
+1181205697 798639105 compile
+312560500 1181205697 test
+312560500 583490561 test
+1189496672 1046467249 test
+312560500 1189496672 test
+312560500 1134043959 test
+1529305105 789502290 test
+1529305105 1862552664 test
+1829194516 201421173 test
+1436347886 406265225 test
+1829194516 1436347886 test
+1529305105 1829194516 test
+312560500 1529305105 test
+1329572464 1211297851 compile
+1329572464 2062780238 compile
+312560500 1329572464 compile
+1518868172 1750490055 test
+1518868172 934993374 test
+1518868172 1360393616 test
+312560500 1518868172 test
+1261545224 300111306 test
+312560500 1261545224 test
+1893088773 236055802 test
+312560500 1893088773 test
+1214125015 1134051859 compile
+1214125015 50297459 compile
+1214125015 59257066 runtime
+312560500 1214125015 compile
+981012032 1135400862 compile
+981012032 31567969 compile
+997219303 981012032 compile
+312560500 997219303 compile
